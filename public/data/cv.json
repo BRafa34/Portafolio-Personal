@@ -1,0 +1,91 @@
+{
+  "demo": true,
+  "profile": {
+    "name": "Brandon Rafael Bozo Sejas",
+    "role": "Ingeniero de Sistemas",
+    "intro": "Me interesa crear soluciones digitales útiles, claras y fáciles de usar.",
+    "bio": "Participo en proyectos de desarrollo web, diseño de interfaces y organización de información. Me gusta aprender nuevas herramientas, colaborar con otras personas y transformar ideas en aplicaciones funcionales.",
+    "location": "",
+    "availability": "Disponible para proyectos y colaboraciones",
+    "photo": { "src": "photos/foto2.jpeg", "alt": "Tres personas posando juntas en un interior" }, "cover": { "src": "photos/foto1.jpeg", "alt": "Dos personas con sudaderas junto a una reja" }, "cvFile": ""
+  },
+  "education": [
+    { "institution": "Universidad Franz Tamayo", "degree": "Ingeniero de Sistemas", "year": "2024-2028" }
+  ],
+  "experience": [
+    {
+      "title": "Desarrollador web",
+      "organization": "Estudio Digital",
+      "period": "2025-2026",
+      "description": "Construcción de páginas responsivas y mejoras de navegación en aplicaciones web.",
+      "highlights": ["Maquetación con HTML, CSS y Bootstrap.", "Colaboración en la revisión de interfaces ."]
+    },
+    {
+      "title": "Asistente de soporte técnico ",
+      "organization": "Equipo de soporte técnico",
+      "period": "2024-2025",
+      "description": "Atención de consultas y documentación de soluciones técnicas.",
+      "highlights": ["Registro de incidencias y seguimiento de tareas."]
+    }
+  ],
+  "skills": [
+    { "name": "HTML y CSS ", "level": 85 },
+    { "name": "JavaScript ", "level": 75 },
+    { "name": "Angular", "level": 70 },
+    { "name": "Bootstrap ", "level": 80 },
+    { "name": "Bases de datos", "level": 65 }
+  ],
+  "languages": [
+    { "name": "Español", "level": "Avanzado " },
+    { "name": "Inglés", "level": "Básico " }
+  ],
+  "projects": [
+    {
+      "id": "aquatrack",
+      "title": "Aquatrack",
+      "category": "Web",
+      "description": "Sistema web de gestión de pedidos y rutas de entrega para Claros Terrazas Corp. Incluye módulos para clientes, conductores, vehículos y seguimiento.",
+      "image": { "src": "https://images.unsplash.com/photo-1620455800201-7f00aeef12ed?auto=format&fit=crop&w=1200&q=80", "alt": "Fotografía ilustrativa de una furgoneta cargada con paquetes" },
+      "technologies": ["Python", "Flask", "SQLAlchemy", "PostgreSQL"],
+      "url": "",
+      "repository": "https://github.com/BRafa34/Aquatrack"
+    },
+    {
+      "id": "cleanswipe",
+      "title": "CleanSwipe",
+      "category": "Android",
+      "description": "Aplicación Android para explorar y organizar fotografías del dispositivo por categorías, con revisión mediante gestos y una bóveda de imágenes.",
+      "image": { "src": "https://images.unsplash.com/photo-1618896324744-8b5ba5f2a010?auto=format&fit=crop&w=1200&q=80", "alt": "Fotografía ilustrativa de un teléfono con una galería de imágenes" },
+      "technologies": ["Kotlin", "Android", "Room"],
+      "url": "",
+      "repository": "https://github.com/BRafa34/CleanSwipe"
+    },
+    {
+      "id": "odontolab",
+      "title": "OdontoLab",
+      "category": "Salud",
+      "description": "Proyecto de software orientado al ámbito odontológico.",
+      "image": { "src": "https://images.unsplash.com/photo-1643660527071-52e37cf7c7ea?auto=format&fit=crop&w=1200&q=80", "alt": "Fotografía ilustrativa de un consultorio odontológico" },
+      "technologies": [],
+      "url": "",
+      "repository": "https://github.com/BRafa34/OdontoLab"
+    }
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "photos/foto1.jpeg",
+      "alt": "Dos personas con sudaderas junto a una reja",
+      "title": "Fotografía compartida 1",
+      "description": "Fotografía personal compartida en la galería."
+    },
+    {
+      "type": "image",
+      "src": "photos/foto2.jpeg",
+      "alt": "Tres personas posando juntas en un interior",
+      "title": "Fotografía compartida 2",
+      "description": "Fotografía personal compartida en la galería."
+    }
+  ],
+  "contact": { "email": "rafab3412@gmail.com", "phone": "76477433", "links": [] }
+}
